@@ -31,6 +31,6 @@ Em Clean, este paradigma é rigorosamente aplicado, o que traz vários benefíci
 Em resumo, ao aprender Clean, você não está apenas aprendendo uma linguagem, mas também absorvendo os princípios fundamentais da **programação funcional**.
 
 <div align="center";>
-![Foto tirada na sala de aula](src/image/image.jpeg)
-<p>02/06/2025</p>  
+  <img src="src/image/image.jpeg" alt="Foto tirada na sala de aula" width="300">
+  <p>02/06/2025</p>  
 </div>
